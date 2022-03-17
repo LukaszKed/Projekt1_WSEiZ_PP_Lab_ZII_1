@@ -1,0 +1,2 @@
+# Projekt1_WSEiZ_PP_Lab_ZII_1
+Implementacja pierwszego projektu
